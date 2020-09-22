@@ -4,4 +4,4 @@ I am Sudhanshu Srivastava, a third year PhD student in the [Dynamical Neuroscien
 
 I work at the intersection of human vision and computer vision, using tools such as visual psychophysics with eye tracking, deep neural networks and Bayesian ideal observers. 
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?user=m5msEqMAAAAJ) and [LinkedIn](https://www.linkedin.com/in/sudhanshusri1001/)
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=m5msEqMAAAAJ) and [LinkedIn](https://www.linkedin.com/in/sudhanshusri1001/).
